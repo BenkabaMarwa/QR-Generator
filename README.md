@@ -1,6 +1,8 @@
-# Devex QR Studio – QR Code Generator
+# Devex QR Studio | QR Code Generator
 
 A responsive, browser-based QR code generator developed with **HTML, CSS, and JavaScript**. Devex QR Studio allows users to generate customizable QR codes for different types of content, including URLs, contact information, Wi-Fi credentials, and calendar events. Users can customize the appearance of their QR codes and download them in PNG or SVG format.
+
+![Devex QR Studio](screenshots/introduction-pic.jpg)
 
 ## Features
 
