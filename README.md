@@ -73,17 +73,15 @@ The project is a standalone web application, with its HTML, CSS, and JavaScript 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/devex-qr-studio.git
+git clone https://github.com/BenkabaMarwa/QR-Generator.git
 ```
-
-Replace `USERNAME` with your GitHub username.
 
 ### 2. Open the project
 
 Navigate to the project folder:
 
 ```bash
-cd devex-qr-studio
+cd QR-Generator
 ```
 
 Open `index.html` in your browser.
