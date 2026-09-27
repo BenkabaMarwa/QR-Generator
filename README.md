@@ -103,16 +103,8 @@ No build process or package installation is required.
 
 ## Screenshots
 
-Add screenshots of your application to showcase the interface and its features.
-
-```markdown
 ![Devex QR Studio Interface](screenshots/interface.jpg)
-![QR Code Preview](screenshots/qr-preview.)
-```
-
-## Live Demo
-
-Add your deployed application URL here once it is hosted.
+![QR Code Preview](screenshots/qr-preview.png)
 
 ## Developer
 
